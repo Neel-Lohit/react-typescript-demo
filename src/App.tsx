@@ -7,8 +7,8 @@ import { PersonList } from './components/PersonList';
 import { Status } from './components/Status';
 import { Heading } from './components/Heading';
 import { Oscar } from './components/Oscar';
-import { Book } from './components/Book';
-import { BookImage } from './components/BookImage';
+import { Book } from './components/Assignment-Child-Parent-Components/Book';
+import { BookImage } from './components/Assignment-Child-Parent-Components/BookImage';
 
 function App() {
 

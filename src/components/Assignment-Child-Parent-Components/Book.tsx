@@ -10,7 +10,7 @@ export const Book = (props: BookProps) => {
     
     return (
   <div className="card" style={{width: "18rem"}} background-color= {'#000'}>
-      {props.children[0]}
+      {props.children[0]} 
   <div className="card-body">
     <h5 className="card-title">{props.title}</h5>
     <p className="card-text">{props.children[1]}</p>
