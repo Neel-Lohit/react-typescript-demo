@@ -1,0 +1,2 @@
+The component Person takes a prop ‘name’ with properties first and last and type string.
+The full name of a person is passed as a prop to this component, which is displayed as first and last name.  
